@@ -1,15 +1,15 @@
 # EFI
 
-Introducing a decentralized, rewards-based platform fundraising non profits over user engagement
+# Introducing a decentralized, rewards-based platform fundraising non profits over user engagement # 
 
-Problem:
+# Problem:#
 
 Based on the fact that the current online advertising model no longer fits users (ex: Increase of Adblockers, Fraudulent traffic,malvertisements and privacy violations). We've changed the rules by offering a new and fair model to users, where each one of their user engagement and interaction with brand or ad turns into a donation to Non-Profit Organizations.
 
 Realising the only powers users has today is either blocking ads either skipping ads, we've created a new power the power to Engage For Impact the power to Watch And Give.
 
 
-Solution:
+# Solution:
 
 The solution is a decentralized, rewards-based platform fundraising non profits over user engagement
 
@@ -35,7 +35,7 @@ EFI is designed to tokenize User Engagement for Social Impact, its a payment sys
 
 To learn more please visit https://watchandgive.co
 
-Contact
+# Contact
 
 If you have questions please send us an email at hello@watchandgive.co
 

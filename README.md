@@ -2,7 +2,7 @@
 
 # Introducing a decentralized, rewards-based platform fundraising non profits over user engagement # 
 
-# Problem:#
+# Problem:
 
 Based on the fact that the current online advertising model no longer fits users (ex: Increase of Adblockers, Fraudulent traffic,malvertisements and privacy violations). We've changed the rules by offering a new and fair model to users, where each one of their user engagement and interaction with brand or ad turns into a donation to Non-Profit Organizations.
 
